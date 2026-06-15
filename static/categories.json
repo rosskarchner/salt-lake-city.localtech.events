@@ -1,0 +1,92 @@
+{
+  "ai": {
+    "slug": "ai",
+    "name": "AI & Machine Learning",
+    "description": "Artificial intelligence, machine learning, and data science events"
+  },
+  "cloud": {
+    "slug": "cloud",
+    "name": "Cloud Computing",
+    "description": "Cloud platforms, infrastructure, DevOps, and cloud-native technologies"
+  },
+  "cybersecurity": {
+    "slug": "cybersecurity",
+    "name": "Cybersecurity",
+    "description": "Information security, cybersecurity, and privacy-focused events"
+  },
+  "data": {
+    "slug": "data",
+    "name": "Data & Analytics",
+    "description": "Data engineering, analytics, visualization, and big data events"
+  },
+  "gaming": {
+    "slug": "gaming",
+    "name": "Gaming & Gamedev",
+    "description": "Making and playing games"
+  },
+  "hardware": {
+    "slug": "hardware",
+    "name": "Hardware & Electronics",
+    "description": "Making and tinkering with actual physical things"
+  },
+  "mobile": {
+    "slug": "mobile",
+    "name": "Mobile Development",
+    "description": "Mobile app development, iOS, Android, and cross-platform technologies"
+  },
+  "open-source-community": {
+    "slug": "open-source-community",
+    "name": "Open Source Community",
+    "description": "Events about Free and Open Source Software."
+  },
+  "programming-languages": {
+    "slug": "programming-languages",
+    "name": "Programming Languages",
+    "description": "Programming language meetups, user groups, and language-specific communities"
+  },
+  "software-development": {
+    "slug": "software-development",
+    "name": "Software Development",
+    "description": "Software development practices, methodologies, and general programming topics"
+  },
+  "startups": {
+    "slug": "startups",
+    "name": "Startups & Entrepreneurship",
+    "description": "Startup culture, entrepreneurship, and business development events"
+  },
+  "ux-design": {
+    "slug": "ux-design",
+    "name": "UX & Design",
+    "description": "User experience, interface design, and product design events"
+  },
+  "communities": {
+    "slug": "communities",
+    "name": "Communities",
+    "description": "Tech communities organized around shared identity, values, or background"
+  },
+  "career-and-professional-development": {
+    "slug": "career-and-professional-development",
+    "name": "Career & Professional Development",
+    "description": "Career transitions, job searching, mentorship, and leadership networking"
+  },
+  "conferences": {
+    "slug": "conferences",
+    "name": "Conferences",
+    "description": "Multi-day conferences, summits, and large-scale tech gatherings"
+  },
+  "social": {
+    "slug": "social",
+    "name": "Social & Networking",
+    "description": "Tech social events, happy hours, and professional networking"
+  },
+  "coworking": {
+    "slug": "coworking",
+    "name": "Coworking",
+    "description": "Coworking sessions, collaboration spaces, and community work events"
+  },
+  "regional-organizations": {
+    "slug": "regional-organizations",
+    "name": "Regional Organizations",
+    "description": "Regional tech organizations, professional associations, and community groups"
+  }
+}

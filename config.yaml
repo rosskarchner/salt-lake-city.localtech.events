@@ -1,0 +1,16 @@
+# Salt Lake City, UT Tech Events Configuration
+site_name: "Salt Lake City, UT Tech Events"
+tagline: Technology conferences and meetups in and around Salt Lake City, UT
+base_url: https://salt-lake-city.localtech.events
+add_events_link: https://salt-lake-city.localtech.events/edit/submit-event.html
+newsletter_signup_link: https://newsletter.salt-lake-city.localtech.events/
+
+timezone: "US/Mountain"
+
+location: "Salt Lake City, UT"
+max_distance_miles: 40
+
+github_client_id: ""
+oauth_callback_endpoint: "https://add.salt-lake-city.localtech.events/oauth/callback"
+github_sponsors_token: ""
+dynamodb_table: "SaltLakeCityTechEvents"

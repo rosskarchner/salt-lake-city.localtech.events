@@ -1,0 +1,7 @@
+# calgen build artifacts
+_cache/
+_data/
+build/
+*.pyc
+__pycache__/
+.venv/

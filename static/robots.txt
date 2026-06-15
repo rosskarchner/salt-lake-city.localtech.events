@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salt-lake-city.localtech.events/sitemap.xml
